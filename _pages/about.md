@@ -9,9 +9,10 @@ redirect_from:
 
 *A Researcher, Engineer, and Occasional Water Whisperer*  
 
-## 🌊 Passion for Water Resource Management  
-Ever wondered what it takes to make water flow fairly, efficiently, and without turning into a microbial cocktail? Well, that's where I come in. I'm a **Postdoctoral Researcher at the Technion-Israel Institute of Technology**, specializing in **water distribution systems, optimization, and decision-making under uncertainty**. In simpler terms, I ensure that water gets where it needs to go—fairly, sustainably, and with just the right amount of disinfectant.  
-
+## 🌊 Passion for Water Resource Management
+*"If water is life, then optimizing its distribution is the key to sustainability."*  
+I’m a **Postdoctoral Researcher** at the **Technion-Israel Institute of Technology**, where I dive into the thrilling world of **water distribution systems, computational hydraulics, and robust optimization**. My mission? To make water supply systems more **resilient, equitable, and efficient**—because if water can squeeze through a rock, surely I can navigate through complex optimization problems with a smile.
+Before this, I was part of the **ERC Synergy Grant "Water Futures"** project at the **KIOS Research Center, University of Cyprus**, where I spent my time figuring out how to get high-quality water to everyone—fairly (because, let's face it, even water has trust issues). My work is where **engineering, mathematics, and decision-making under uncertainty** collide—because sometimes, even water doesn’t know where it’s going!
 ## 🎓 Academic Journey: From Concrete to Computational Hydraulics  
 - **Ph.D. in Civil & Environmental Engineering** – Technion-Israel Institute of Technology 🏗️💧  
 - **M.Eng. in Structural Engineering** – BITS Pilani (yes, I briefly flirted with concrete before falling for water)  
