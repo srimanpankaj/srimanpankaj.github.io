@@ -27,4 +27,3 @@ redirect_from:
 ### April 2024
 - Awarded a provisional PhD degree from Technion-Israel Institute of Technology, Israel.
 
-### March 2024
