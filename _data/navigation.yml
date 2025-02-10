@@ -6,7 +6,7 @@
 
 main:
   - title: "News"
-    url: /portfolio/
+    url: /cv/
    
   - title: "CV"
     url: /files/CV_Sriman-10-02-2025.pdf

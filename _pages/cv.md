@@ -1,64 +1,30 @@
 ---
 layout: archive
-title: "CV"
+title: "News"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+### February 2025
+- Joined Technion- Israel Institute of Technology as a postdoctoral researcher.
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### January 2025
+- My article titled: "Booster Disinfection Scheduling under Uncertainty in Water Distribution Systems: Approximate Robust Reformulation Approach" got published in *Journal of Water Resource Planning and Management - ASCE*.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### October 2024
+- Attended the ERC Synergy Grant: Water Futures Meeting, at KWR Water Research Institute, Netherlands.
+- Selected for the *Best Reviewer Award* for *Journal of Water Resource Planning and Management (JWRPM) - ASCE*.  
+  *Award will be presented at ASCE-EWRI Congress 2025.*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### May 2024
+- Check out my two co-authored conference articles presented at *EWRI-2024 in Milwaukee, USA*:  
+  - **Paper 1**: "Robust Booster Disinfection Scheduling Using Incomplete Mixing Water Quality Model (EPANET-IMX)"  
+  - **Paper 2**: "Operating Water Distribution Systems for Equitable Access to Clean Water"  
+- Presented at the ERC Synergy Grant: Water Futures Meeting, organized by the University of Athens School of Business and Economics in Athens, Greece.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### April 2024
+- Awarded a provisional PhD degree from Technion-Israel Institute of Technology, Israel.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### March 2024
