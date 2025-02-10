@@ -5,6 +5,8 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "News"
+   url: /portfolio/
   - title: "CV"
     url: /files/CV_Sriman-10-02-2025.pdf
     
