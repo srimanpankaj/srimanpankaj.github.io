@@ -10,8 +10,12 @@ redirect_from:
 *A Researcher, Engineer, and Occasional Water Whisperer*  
 
 ## 🌊 Passion for Water Resource Management
-*"If water is life, then optimizing its distribution is the key to sustainability."*  
+*"If water is life, then optimizing its distribution is the key to sustainability."* 
+
+ 
 I’m a **Postdoctoral Researcher** at the **Technion-Israel Institute of Technology**, where I dive into the thrilling world of **water distribution systems, computational hydraulics, and robust optimization**. My mission? To make water supply systems more **resilient, equitable, and efficient**—because if water can squeeze through a rock, surely I can navigate through complex optimization problems with a smile.
+
+
 Before this, I was part of the **ERC Synergy Grant "Water Futures"** project at the **KIOS Research Center, University of Cyprus**, where I spent my time figuring out how to get high-quality water to everyone—fairly (because, let's face it, even water has trust issues). My work is where **engineering, mathematics, and decision-making under uncertainty** collide—because sometimes, even water doesn’t know where it’s going!
 ## 🎓 Academic Journey: From Concrete to Computational Hydraulics  
 - **Ph.D. in Civil & Environmental Engineering** – Technion-Israel Institute of Technology 🏗️💧  
