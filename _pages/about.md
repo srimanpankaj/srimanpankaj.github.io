@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Meet Dr. Sriman Pankaj Boindala"
+title: "👋 Meet Dr. Sriman Pankaj Boindala "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# 👋 Meet Dr. Sriman Pankaj Boindala 
 
 *A Researcher, Engineer, and Occasional Water Whisperer*  
 
