@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-### 👨‍🔬 Sriman Pankaj Boindala, PhD
+# 👨👋 Meet Dr. Sriman Pankaj Boindala 
 
 *A Researcher, Engineer, and Occasional Water Whisperer*  
 
