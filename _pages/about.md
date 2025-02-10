@@ -6,8 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-# 👨👋 Meet Dr. Sriman Pankaj Boindala 
-
+# 👋 Meet Dr. Sriman Pankaj Boindala 
 *A Researcher, Engineer, and Occasional Water Whisperer*  
 
 ## 🌊 Passion for Water Resource Management  
