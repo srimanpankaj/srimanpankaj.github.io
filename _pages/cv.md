@@ -6,9 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 ### February 2025
 - Joined Technion- Israel Institute of Technology as a postdoctoral researcher.
+- Secured the MSCA Seal of Excellence 2024 recognition for my proposal
 
 ### January 2025
 - My article titled: "Booster Disinfection Scheduling under Uncertainty in Water Distribution Systems: Approximate Robust Reformulation Approach" got published in *Journal of Water Resource Planning and Management - ASCE*.
