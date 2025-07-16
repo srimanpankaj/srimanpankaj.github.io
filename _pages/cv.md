@@ -21,9 +21,6 @@ redirect_from:
 ### April 2025
 - Secured Alexander von Humboldt Research Fellowship (to begin in January 2026 at TU Berlin with Prof. Andrea Cominola).
 
-### March 2025
-- Secured the Marie Curie Seal of Excellence Award for my postdoctoral proposal.
-
 ### February 2025
 - Joined Technion - Israel Institute of Technology as a postdoctoral researcher.
 - Received the MSCA Seal of Excellence 2024 for my Horizon Europe postdoctoral proposal.
@@ -35,12 +32,3 @@ redirect_from:
 - Participated in the ERC Synergy Grant: *Water Futures* meeting at KWR Water Research Institute, Netherlands.
 - Selected for the *Best Reviewer Award* by *JWRPM-ASCE*.  
   *To be presented at ASCE-EWRI Congress 2025.*
-
-### May 2024
-- Co-authored two conference papers presented at *EWRI-2024, Milwaukee, USA*:
-  - **Paper 1**: *"Robust Booster Disinfection Scheduling Using Incomplete Mixing Water Quality Model (EPANET-IMX)"*
-  - **Paper 2**: *"Operating Water Distribution Systems for Equitable Access to Clean Water"*
-- Presented at the *Water Futures* meeting organized by the University of Athens.
-
-### April 2024
-- Awarded a provisional PhD degree from Technion - Israel Institute of Technology.
