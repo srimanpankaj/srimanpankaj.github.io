@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## 🌊 Research Focus
-I am an **Alexander von Humboldt Research Fellow** at the **Chair of Digital Water Systems, Technical University of Berlin (TU Berlin)**, working with Prof. Andrea Cominola. My research focuses on **systems-level modeling, optimization, and resilience of urban water distribution networks under severe uncertainty**.
+I am an **[Alexander von Humboldt Research Fellow](https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1244429/dr-sriman-pankaj-boindala)** at the **Chair of Digital Water Systems, Technical University of Berlin (TU Berlin)**, working with Prof. Andrea Cominola. My research focuses on **systems-level modeling, optimization, and resilience of urban water distribution networks under severe uncertainty**.
 
 My work bridges hydraulic engineering, transport physics, and mathematical optimization. It addresses vulnerabilities in municipal water infrastructure where conventional probabilistic assumptions fail, drawing on robust optimization, Info-Gap Decision Theory, stochastic modeling, and data-driven methods.
 
@@ -33,7 +33,7 @@ Before TU Berlin, I was a postdoctoral researcher at the **Technion – Israel I
 ---
 
 ## 🏆 Awards & Fellowships
-- **Alexander von Humboldt Research Fellowship** – Alexander von Humboldt Foundation, Germany (2026–2028)
+- **Alexander von Humboldt Research Fellowship** – Alexander von Humboldt Foundation, Germany (2026–2028) · [Humboldt profile](https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1244429/dr-sriman-pankaj-boindala)
 - **Marie Skłodowska-Curie Actions – Seal of Excellence** – European Commission (2024 & 2025)
 - **Best Reviewer Award** – *ASCE Journal of Water Resources Planning and Management* (2024)
 - **Best Paper Award** – *First International Conference on Recent Advancements in Civil Engineering (ICRACE 2021)*, NIT Silchar
