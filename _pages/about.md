@@ -55,5 +55,4 @@ Before TU Berlin, I was a postdoctoral researcher at the **Technion – Israel I
 ## 🔧 Technical Skills
 - **Optimization & Decision Theory:** Robust Optimization, Info-Gap Decision Theory, Multi-Objective Optimization, Stochastic Modeling, GUROBI, CVXPY, LINGO
 - **Hydraulic & Water Quality Simulation:** EPANET, EPANET-IMX, EPANET-MSX, WNTR, EPyT
-- **Data-Driven Methods:** Statistical Learning, Regression, Decision Trees, Safe Data-Enabled Predictive Control (Safe DeePC); in development: Physics-Informed ML, Reinforcement Learning, Graph Neural Networks
 - **Computing:** Python, MATLAB, R, ArcGIS
