@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Sriman Pankaj Boindala"
 description              : &description "Sriman Pankaj Boindala – Alexander von Humboldt Research Fellow at TU Berlin working on optimization and resilience of water distribution systems under uncertainty."
 url                      : https://srimanpankaj.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/s" # the subpath of your site, e.g. "/blog"
-repository               : "srimanpankaj/s"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "srimanpankaj/srimanpankaj.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
