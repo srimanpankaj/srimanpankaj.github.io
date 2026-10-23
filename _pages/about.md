@@ -48,7 +48,7 @@ Before TU Berlin, I was a postdoctoral researcher at the **Technion – Israel I
 - **Chair** – ASCE-EWRI Task Committee on Generative AI in Publishing
 - **Member** – ASCE-EWRI Task Committee on ML/AI Applications in Water Engineering
 
-**15 peer-reviewed journal articles** (h-index 10, 220+ citations). See [Publications](publications/) or [Google Scholar](https://scholar.google.com/citations?user=df533j8AAAAJ&hl=en).
+**14 peer-reviewed journal articles** (h-index 10, 220+ citations). See [Publications](publications/) or [Google Scholar](https://scholar.google.com/citations?user=df533j8AAAAJ&hl=en).
 
 ---
 
